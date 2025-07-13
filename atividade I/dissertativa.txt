@@ -1,0 +1,13 @@
+Início
+
+Solicitar ao usuário um número inteiro n (entre 1 e 10)
+
+Calcular o valor da dezena: dezena = n - 1
+
+Calcular o valor da unidade: unidade = 10 - n
+
+Calcular o resultado final: resultado = (dezena × 10) + unidade
+
+Exibir o valor de resultado
+
+Fim
