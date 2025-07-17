@@ -1,0 +1,7 @@
+a=5
+b=2
+print("tipo da variavel 'a':", type (a))
+print("tipo da variavel 'b':", type(b))
+c=a/b
+print("o valor de 'c' é:", c)
+print("tipo da variavel 'c':", type(c))
