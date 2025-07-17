@@ -1,0 +1,16 @@
+a="o resultado é:"
+b=10
+c=3.5
+soma=b+c
+
+print("o valor de 'a' é:", a)
+print("o tipo de 'a' é:", type(a))
+
+print("o valor de 'b' é:", b)
+print("o tipo de 'b' é:", type(b))
+
+print("o valor de 'c' é:", c)
+print("o tipo de 'c' é:", type(c))
+
+print("o valor de 'soma' é:", soma)
+print("o tipo de 'soma' é:", type(soma))
